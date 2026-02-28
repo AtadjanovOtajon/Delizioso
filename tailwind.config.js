@@ -10,6 +10,11 @@ module.exports = {
 
       }
     },
+    container: {
+      center: true,
+      padding: '15px',
+      sm:'1130px'
+    }
   },
   plugins: [],
 }
